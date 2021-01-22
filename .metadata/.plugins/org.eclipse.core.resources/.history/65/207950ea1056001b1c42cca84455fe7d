@@ -1,0 +1,30 @@
+
+public class LearnEscapeSequences {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	
+	
+	System.out.println("this is an \t engeneering calss");  // insert a tab in the text at this point
+	System.out.println("this is an  \b engeneering calss");    // /b  insert a backspace in the text at this point delete one caracter. not working on eclipse
+	System.out.println("this is an \n engeneering calss"); // /n goes to next line 
+	System.out.println("this is an \r engeneering calss");// /r 
+	System.out.println("this is an \f engeneering calss");// /f
+	System.out.println("this is an \' engeneering\' calss");// /' to print the word inside single quote
+	System.out.println("this is an \" engeneering\" calss");// /" to print the word inside double quote quote
+	System.out.println("this is an  engeneering \\ calss");// /'
+	
+	
+	
+	
+	
+	
+	}
+	
+	
+	
+	
+	
+
+}

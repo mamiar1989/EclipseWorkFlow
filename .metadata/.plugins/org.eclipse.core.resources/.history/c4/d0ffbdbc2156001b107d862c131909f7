@@ -1,0 +1,24 @@
+package javapractice;
+
+public class Static_Non_Static {
+
+	public static String car="Honda";
+	public static String bus="yotota";
+	
+	
+	public static void main(String[] args) {
+		System.out.println(car);
+		
+		Static_Non_Static obj = new Static_Non_Static(); 
+		
+		
+		
+		
+		
+	}
+	
+	
+	
+	
+	
+}

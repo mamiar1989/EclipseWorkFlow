@@ -1,0 +1,21 @@
+
+public class LearnConcatenation {
+
+	public static void main(String[] args) {
+		
+//Concatenation is used with string type of variable
+//
+	   
+		
+		String FirstName= "James";
+		String lastName= "William";
+	    String fullName= FirstName + " "+ lastName;
+	
+	System.out.println(fullName); 
+	
+	
+	}
+	
+	
+
+}

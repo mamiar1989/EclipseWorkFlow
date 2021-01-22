@@ -1,0 +1,46 @@
+
+public class NestedClass {
+
+// nested class is the parent class , there some limitations that a child claas  can do 
+
+		int num=20;
+		int num1=30;
+	public static void main(String[] args) {
+		
+		
+		NestedClass learn=new NestedClass();
+		System.out.println(learn.num);
+		
+		
+		Computer.computerPrice= new Computer();
+		
+		
+		
+		
+	}
+	
+	
+	
+	
+		public static class Computer{ // we have to declare this class being static so that 
+			String computerName="HP";// we can use a  stapc variable 
+			static String computerPrice="2000";
+	   
+			public static void computerDisplay() {
+			
+			
+			}
+			
+			
+			
+			
+			
+			public class Mobile{
+	    }
+	    }
+		
+		
+		
+	}
+
+

@@ -1,0 +1,22 @@
+
+public class LearnStatic {
+  
+	
+	public static String stname="Eacha";// static global variable
+	String StAdress="New York";  // Non static  global Variable
+	
+	
+	
+	
+	public static void main(String[] args) {    // How can we call a non static variable inside main method 
+		
+	System.out.println(stname);
+
+	LearnStatic.stname="Kevin";
+	System.out.println(stname);
+		
+		
+
+	}
+
+}

@@ -1,0 +1,27 @@
+package Test2;
+import java.util.Scanner;
+public class Classic_Program22 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		
+		
+		//==>> Print the number of years and days from minutes 
+		
+				// the key is to understand what you are trying to do , you are tarying to calculate 
+				
+				//years and days by minutes 
+				
+		
+		
+		
+		
+		double (minute in year)= 60*24*365;
+		
+		
+		
+	}
+
+}

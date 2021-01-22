@@ -1,0 +1,32 @@
+
+public class AccessModifier {
+
+	
+	
+
+	private static int age=24;
+	
+	public static void main(String[] args) {
+		
+
+		// Access modifier/ Access specifier we can use them in class variable or method
+		// private: we can use or call only within the class where it is located
+		//public: we can use or call within the class where it is located and
+		//other class.
+		//protected:  only accessible from all the classes that have a particular package
+		/*
+		*/
+		// public
+		//private
+		//protected
+		//default
+		System.out.println(LearnDatatype.mobileBrand);  // created in another project but can be used in other project 
+	
+	
+	
+	
+	
+	
+	}
+
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Automation1/Automation1.iml" filepath="$PROJECT_DIR$/Automation1/Automation1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/Demo.iml" filepath="$PROJECT_DIR$/Demo/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hello World/Hello World.iml" filepath="$PROJECT_DIR$/Hello World/Hello World.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnJava_WeekendAfternoon_Selenium_NY_Fall2020/LearnJava_WeekendAfternoon_Selenium_NY_Fall2020.iml" filepath="$PROJECT_DIR$/LearnJava_WeekendAfternoon_Selenium_NY_Fall2020/LearnJava_WeekendAfternoon_Selenium_NY_Fall2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LearnJava_WeekendAfternoon_Selenium_NY_Fall20201/LearnJava_WeekendAfternoon_Selenium_NY_Fall20201.iml" filepath="$PROJECT_DIR$/LearnJava_WeekendAfternoon_Selenium_NY_Fall20201/LearnJava_WeekendAfternoon_Selenium_NY_Fall20201.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Newteacher/Newteacher.iml" filepath="$PROJECT_DIR$/Newteacher/Newteacher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Program1/Program1.iml" filepath="$PROJECT_DIR$/Program1/Program1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Program2/Program2.iml" filepath="$PROJECT_DIR$/Program2/Program2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quizes/Quizes.iml" filepath="$PROJECT_DIR$/Quizes/Quizes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZJavaPractice/ZJavaPractice.iml" filepath="$PROJECT_DIR$/ZJavaPractice/ZJavaPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/automation2/automation2.iml" filepath="$PROJECT_DIR$/automation2/automation2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mimilya/mimilya.iml" filepath="$PROJECT_DIR$/mimilya/mimilya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/program3/program3.iml" filepath="$PROJECT_DIR$/program3/program3.iml" />
+    </modules>
+  </component>
+</project>

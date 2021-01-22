@@ -1,0 +1,14 @@
+package QuizesAnswer;
+import java.util.Scanner;
+public class Quiz1Scanner {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Scanner toy= new Scanner (System.in);
+		System.out.println("Enter your name please!");
+		String name=toy.next();
+		System.out.println("your name is :" + name);
+	}
+
+}

@@ -1,0 +1,19 @@
+package javapractice;
+
+public class Constructor {
+
+	public Constructor () {
+	}
+	
+	public static void main(String[] args) {
+		
+
+		
+		
+		// method is a block of code called to run a code 
+		
+		
+		
+	}
+
+}

@@ -1,0 +1,27 @@
+
+public class Block {
+public static void main(String[] args) {
+	
+
+
+	
+	// Block
+
+	System.out.println("Hello");
+	System.out.println("this is a block");	
+	
+	
+
+
+
+
+
+
+
+
+/*{// Block start point 
+    //block body
+    }// block end point*/
+
+}
+}

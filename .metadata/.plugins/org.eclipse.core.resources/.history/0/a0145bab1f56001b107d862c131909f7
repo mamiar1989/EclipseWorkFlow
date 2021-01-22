@@ -1,0 +1,46 @@
+
+public class LearnStatic {
+    public static void tvDisplay() {
+    	System.out.println("tv dispaly is UHD");
+    }
+	public static String car= "Toyota";
+	public static String stname="Eacha";// static global variable
+     static String fname= "mohand";
+	String StAdress="New York";  // Non static  global Variable
+	
+	
+	int age;
+	int pizzaprice=25;
+	
+	
+	public static void main(String[] args) {    // How can we call a non static variable inside main method 
+		
+		
+		
+		
+	System.out.println(stname);
+
+	LearnStatic.stname="Kevin";   // to reassign a value to a static variable , call the main calss.the name of the static variable= "the new name"
+	
+	System.out.println(stname);
+		LearnStatic.stname="Arafat";
+		System.out.println(stname);
+		System.out.println(car);
+	
+	
+		LearnStatic obj=new LearnStatic();
+		obj.age=62;
+		obj.pizzaprice=15;
+		obj.pizzaprice=54;// reassigned the value 
+		
+		System.out.println( "The age required for senior discount is:"+ " " +obj.age);
+		System.out.println("The price of my favorite pizza is :"   +   " "+ obj.pizzaprice +"$");
+		System.out.println(fname);
+	
+	
+	
+	}
+	
+	
+
+}

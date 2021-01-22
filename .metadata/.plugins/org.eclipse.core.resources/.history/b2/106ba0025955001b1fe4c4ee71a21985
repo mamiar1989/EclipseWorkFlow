@@ -1,0 +1,35 @@
+package javapractice;
+
+public class Learn_ObjectAndClass2 {
+
+	public static void main(String[] args) {
+		
+		Student Maria= new Student ();
+		
+		Maria.Age= 30;
+		Maria.IdNumber=85325;
+		System.out.println("Maria's age is :" + " " + Maria.Age + " " + "years old" );
+		
+		
+	}
+
+}
+ 
+
+class Student{
+	int Age;
+	int IdNumber;
+    
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+}

@@ -1,0 +1,31 @@
+
+public class Casting {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		double price = 35.99;
+		int discountePrice = (int)price;
+		System.out.println (discountePrice);
+		
+		
+		
+		
+		
+		
+		// 
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

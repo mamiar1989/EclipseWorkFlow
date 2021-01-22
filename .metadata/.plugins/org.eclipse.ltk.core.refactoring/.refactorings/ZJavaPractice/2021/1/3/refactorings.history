@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;javapractice.Constructure.java&apos; to &apos;Student.java&apos;&#x0D;&#x0A;- Original project: &apos;ZJavaPractice&apos;&#x0D;&#x0A;- Original element: &apos;javapractice.Constructure.java&apos;&#x0D;&#x0A;- Renamed element: &apos;javapractice.Student.java&apos;" description="Rename compilation unit &apos;Constructure.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;javapractice{Constructure.java" name="Student.java" references="false" stamp="1610737730000" version="1.0"/>
+</session>

@@ -1,0 +1,39 @@
+package javapractice;
+
+public class Learn_ObjectAndClass2 { 
+	
+		
+		int high;
+		int weight;
+		int age;
+		double width;
+	
+	public static void main(String[] args) {
+		
+		
+	Learn_ObjectAndClass2 obj = new Learn_ObjectAndClass2();
+	obj.age=30;
+	obj.weight=500;
+	obj.high=20;
+	obj.width = 30;
+	System.out.println( " the age of my oak tree is " + " " + obj.age + " " +"years old"  );
+	System.out.println( "the weight of my oak tree is " + " " + obj.weight+ " " +"pounds" );	
+	System.out.println("the hight of my oak tree is " + " " + obj.high + " " +"feet" );
+	System.out.println("the width of my oak tree is " + " " + obj.width + " " +"cm" ); 
+		
+	Learn_ObjectAndClass2 obj1 = new Learn_ObjectAndClass2();	
+	obj1.weight=5000;
+	obj.high=20;
+	int result= obj.weight*obj1.high;
+		System.out.println(result); 
+	}
+	
+	
+	
+	
+	
+}
+
+		
+		
+
